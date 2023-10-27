@@ -1,0 +1,7 @@
+if USE_NLS
+  PO_SUBDIR = po
+endif
+SUBDIRS = src $(PO_SUBDIR)
+ACLOCAL_AMFLAGS = -I m4
+
+EXTRA_DIST = m4/ChangeLog

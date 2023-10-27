@@ -1,0 +1,27 @@
+# Spanish translations for schemod package
+# Traducciones al español para el paquete schemod.
+# Copyright (C) 2023 mcneb10
+# This file is distributed under the same license as the schemod package.
+# Ben McGovern <mcneb10@yahoo.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: schemod 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-03 11:30-0500\n"
+"PO-Revision-Date: 2023-08-30 11:19-0500\n"
+"Last-Translator: Ben McGovern <mcneb10@yahoo.com>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/hello.scm:5
+msgid "Hello, World!"
+msgstr "Hola, Mundo!"
+
+#: src/hello.scm:9
+msgid "Devious Scheme"
+msgstr ""

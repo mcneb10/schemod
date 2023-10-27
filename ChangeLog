@@ -1,0 +1,6 @@
+2023-08-29  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.am (ACLOCAL_AMFLAGS): New variable.
+	(EXTRA_DIST): New variable.
+	* configure.ac (AM_GNU_GETTEXT_VERSION): Bump to 0.21.1.
+
